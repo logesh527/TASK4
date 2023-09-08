@@ -56,3 +56,6 @@ ul li:hover {
     font-size: medium;
     font-weight: bold;
 }
+.done{
+    text-decoration: line-through;
+}
